@@ -14,8 +14,6 @@
 #include "gloo/cameras/ArcBallCameraNode.hpp"
 #include "gloo/debug/AxisNode.hpp"
 
-#include "MacGrid.hpp"
-#include "MarkerParticle.hpp"
 #include "Fluid.hpp"
 
 
