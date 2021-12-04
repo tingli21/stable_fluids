@@ -21,7 +21,7 @@ namespace GLOO {
 SimulationApp::SimulationApp(const std::string& app_name,
                              glm::ivec2 window_size)
     : Application(app_name, window_size) {
-  // TODO: use integrator type and step to create integrators;
+  // TOO: use integrator type and step to create integrators;
   // the lines below exist only to suppress compiler warnings.
 
   SceneNode& root = scene_->GetRootNode();
